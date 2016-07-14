@@ -6,13 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
-title                    : "Site Title"
+locale                   : "tr"
+title                    : "Python Defteri"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+name                     : "Selçuk Cihan"
+description              : "Python özelinde kişisel yorum ve tecrübeler."
+url                      : "https://selcukcihan.github.io"
+#url                      : "http://127.0.0.1:4000"
+baseurl                  : "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -63,27 +64,27 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Selçuk Cihan"
+  avatar           : "profile.png"
+  bio              : "Lisans ve Yüksek Lisans derecelerimi <a href=\"http://www.cmpe.boun.edu.tr\" target=\"_blank\">Boğaziçi Üniversitesi Bilgisayar Mühendisliği</a> bölümünden aldım. Bir süre gömülü yazılımcı olarak çalıştım. Son yıllarda ağırlıklı olarak web uygulamaları geliştiriyorum. İlk göz ağrım <a href=\"http://en.wikipedia.org/wiki/The_C_Programming_Language\" target=\"_blank\">C programlama dili</a> ve modern gözdem <a href=\"http://www.python.org/\" target=\"_blank\">Python</a>. Detaylar iÃ§in <a href=\"http://selcukcihan.github.io/resume/selcukcihan.pdf\" target=\"_blank\">CV'me</a> bakabilirsiniz."
+  location         : "İstanbul"
   email            :
-  uri              :
+  uri              : "http://www.selcukcihan.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "selcukcihan"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "selcukcihan"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "4281182/sel%C3%A7uk-cihan"
   steam            :
   tumblr           :
   twitter          :
@@ -151,7 +152,7 @@ kramdown:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Istanbul
 
 
 # Plugins
