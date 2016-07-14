@@ -3,7 +3,7 @@ layout: single
 title: "Unittest: Nedir Bu Mock?"
 ---
 * *Python 2.7 üzerinden*  
-* *mock kütüphanesini her zaman ki gibi `pip install mock` ile kurduk.*
+* *mock kütüphanesini her zamanki gibi `pip install mock` ile kurduk.*
 
 
 Mock Kavramı
