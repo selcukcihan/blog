@@ -209,3 +209,5 @@ class GetFilesFromTestCase(unittest.TestCase):
 
         self.assertItemsEqual(files, ['test_mock.py'])
 ```
+
+Diğer yazılarım için, [güncel blog’uma](https://blog.selcukcihan.com/) bakabilirsiniz.

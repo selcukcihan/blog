@@ -66,10 +66,10 @@ google_ad_slot           :
 author:
   name             : "Selçuk Cihan"
   avatar           : "profile.png"
-  bio              : "Lisans ve Yüksek Lisans derecelerimi <a href=\"http://www.cmpe.boun.edu.tr\" target=\"_blank\">Boğaziçi Üniversitesi Bilgisayar Mühendisliği</a> bölümünden aldım. Bir süre gömülü yazılımcı olarak çalıştım. Son yıllarda ağırlıklı olarak web uygulamaları geliştiriyorum. İlk göz ağrım <a href=\"http://en.wikipedia.org/wiki/The_C_Programming_Language\" target=\"_blank\">C programlama dili</a> ve modern gözdem <a href=\"http://www.python.org/\" target=\"_blank\">Python</a>. Detaylar iÃ§in <a href=\"http://selcukcihan.github.io/resume/selcukcihan.pdf\" target=\"_blank\">CV'me</a> bakabilirsiniz."
+  bio              : "Lisans ve Yüksek Lisans derecelerimi <a href=\"https://www.cmpe.boun.edu.tr\" target=\"_blank\">Boğaziçi Üniversitesi Bilgisayar Mühendisliği</a> bölümünden aldım. Bir süre gömülü yazılımcı olarak çalıştım. Son yıllarda ağırlıklı olarak web uygulamaları geliştiriyorum. İlk göz ağrım <a href=\"https://en.wikipedia.org/wiki/The_C_Programming_Language\" target=\"_blank\">C programlama dili</a> ve modern gözdem <a href=\"https://www.python.org/\" target=\"_blank\">Python</a>. Detaylar için <a href=\"https://selcukcihan.github.io/resume/selcukcihan.pdf\" target=\"_blank\">CV'me</a> bakabilirsiniz. <a href=\"https://blog.selcukcihan.com/\" target=\"_blank\">Daha güncel bir blog'um da var</a>."
   location         : "İstanbul"
   email            :
-  uri              : "http://www.selcukcihan.com"
+  uri              : "https://www.selcukcihan.com"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -87,7 +87,7 @@ author:
   stackoverflow    : "4281182/sel%C3%A7uk-cihan"
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "scihan"
   vine             :
   weibo            :
   xing             :
